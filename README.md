@@ -1,7 +1,7 @@
 # BitQuant Auto-Referral Bot
 Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal menggunakan satu akun induk.
 
-## 🌟 Fitur Utama
+##  Fitur Utama
 
 - **Otomatisasi Penuh**: Membuat akun referral dari awal hingga akhir secara otomatis.
 - **Pembuatan Dompet Solana**: Menghasilkan dompet Solana baru untuk setiap akun referral.
@@ -50,16 +50,6 @@ Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal
 
 4.  **Selesai:** Skrip akan berjalan secara otomatis. Akun-akun baru yang berhasil dibuat akan disimpan di `generated_accounts.txt`.
 
-##  Struktur File
-
- ```
-.
-├── bot.py                  # Skrip utama
-├── requirements.txt        # Daftar dependensi Python
-├── proxy.txt               # (Opsional) Tempat menyimpan proxy pribadi Anda
-├── generated_accounts.txt  # (Dibuat otomatis) Menyimpan akun hasil generate
-└── README.md               # File ini
-```
 ##  Peringatan
 
 - Penggunaan bot dan automasi mungkin melanggar Syarat dan Ketentuan layanan BitQuant. Risiko ditanggung oleh pengguna.
