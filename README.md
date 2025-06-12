@@ -20,6 +20,7 @@ Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal
 1.  **Kloning Repositori:**
     ```bash
     git clone https://github.com/dlzvy/bitreff.git
+    ---
     cd bitreff
     ```
 
@@ -61,7 +62,3 @@ Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal
 - Penggunaan bot dan automasi mungkin melanggar Syarat dan Ketentuan layanan BitQuant. Risiko ditanggung oleh pengguna.
 - **JANGAN PERNAH** membagikan *private key* akun induk Anda atau isi dari `generated_accounts.txt` kepada siapa pun.
 - Skrip ini dibuat untuk tujuan edukasi.
-
-## 📝 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya.
