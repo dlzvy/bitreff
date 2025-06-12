@@ -18,14 +18,15 @@ Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal
 ##  Instalasi & Pengaturan
 
 1.  **Kloning Repositori:**
+
     ```bash
     git clone https://github.com/dlzvy/bitreff.git
-    ---
     cd bitreff
     ```
 
 2.  **Instal Dependensi:**
     Buka terminal atau command prompt di dalam folder proyek dan jalankan:
+
     ```bash
    pip install -r requirements.txt #or pip3 install -r requirements.txt
     ```
@@ -35,6 +36,7 @@ Bot automasi untuk membuat akun referral baru di platform BitQuant secara massal
 1.  **(Opsional) Siapkan Proxy:** Jika Anda ingin menggunakan proxy pribadi (opsi 2), buat file `proxy.txt` dan isi dengan daftar proxy Anda (format: `ip:port`), satu per baris.
 
 2.  **Jalankan Skrip:**
+
     ```bash
    python bot.py #or python3 bot.py
     ```
