@@ -1,0 +1,7 @@
+aiohttp
+aiohttp-socks
+fake-useragent
+base58
+PyNaCl
+colorama
+pytz
